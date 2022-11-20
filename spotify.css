@@ -1,0 +1,65 @@
+.text
+{   
+    padding:20px;
+    text-align: center;
+    color:white;
+    font-style: italic;
+    font-family: Copperplate, Papyrus, fantasy;
+
+}
+.bg-gradient
+{
+    height: 100vh;
+    background-image: linear-gradient(black,rgb(30, 162, 219));
+}
+.image
+{
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    border-radius: 8px;
+
+}
+.sl
+{
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   float: right;
+   width: 1000px;
+
+}
+.li
+{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    float: right;
+    width: 1000px;
+    padding-bottom: 30 px;
+}
+
+.bar{
+    width: 40vw; 
+    cursor: pointer;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+.heart
+{
+    float:right;
+    width: 1000px;
+    height: 200  px;
+    bottom: 0;
+    position: sticky;
+    
+}
+.icons
+{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    float: right;
+    width: 1450px;
+}
+.icons i{
+    cursor: pointer;
+}
